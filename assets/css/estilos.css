@@ -1,0 +1,72 @@
+.estilo-tabla{
+    border: 2px solid #002489;
+    width: 100%;
+    margin:  1px auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+.logo img {
+    max-width: 100px;
+    max-height: 100px;
+    width: 90px;
+}
+.inicio {
+    border: 2px solid #0f209f;
+    width: 100%;
+    text-align: center;
+}
+
+
+.matricula{
+    margin: 20px 0;
+    margin-left: 80px;
+    margin-right: 100px;
+}
+h1{
+ text-align: center;
+ font-style: inherit;
+}
+
+.tabla-alumnos{
+    text-align: center;
+    margin: 50px;
+
+ }
+
+.contenedor-imagenes {
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+    margin-top: 50px 0; 
+    text-align: center;
+  }
+  
+  .carreras img {
+    width: 300px; 
+    height: auto; 
+  }
+  
+  .carreras p {
+    margin-top: 20px; 
+    font-size: 20px; 
+    text-align: center;
+    line-height: 1.5;
+    
+  }
+  
+  .carreras a {
+    display: block; 
+    margin-top: 5px; 
+    font-size: 15px; 
+    color: rgb(0, 255, 17); 
+    text-decoration: underline; 
+    text-align: center;
+  
+  }
+  
+  .contenedor-imagenes img {
+    width: 300px; 
+    height: auto; 
+    
+  }
+  
